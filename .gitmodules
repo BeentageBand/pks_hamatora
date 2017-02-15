@@ -1,0 +1,6 @@
+[submodule "pk_hamatora_sched"]
+	path = pk_hamatora_sched
+	url = https://github.com/BeentageBand/pk_hamatora_sched.git
+[submodule "pk_hama_dbg_trace"]
+	path = pk_hama_dbg_trace
+	url = https://github.com/BeentageBand/pk_hama_dbg_trace.git
