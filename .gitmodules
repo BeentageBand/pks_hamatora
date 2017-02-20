@@ -4,3 +4,6 @@
 [submodule "pk_hama_dbg_trace"]
 	path = pk_hama_dbg_trace
 	url = https://github.com/BeentageBand/pk_hama_dbg_trace.git
+[submodule "pk_hama_hsm"]
+	path = pk_hama_hsm
+	url = https://github.com/BeentageBand/pk_hama_hsm.git
